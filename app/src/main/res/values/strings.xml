@@ -1,0 +1,50 @@
+<resources>
+    <string name="title">DankMintApp</string>
+    <string name="slogan">Being Red-pilled is the way</string>
+    <string name="main_login_text">Login</string>
+    <string name="main_register_text">Register</string>
+    <string name="app_name">DankMintApp</string>
+    <!--Register View-->
+    <string name="register_app_name">RedPilledBase</string>
+    <string name="register_title">Sign Up</string>
+    <string name="register_description1">By signing up, you agree to our</string>
+    <string name="register_description2">and</string>
+    <string name="register_input_hint_fullName">FullName</string>
+    <string name="register_fullName_input_hint">FullName</string>
+    <string name="register_fullName_input_content_description_end_icon">FullName</string>
+    <string name="register_email_input_content_description_end_icon">Email</string>
+    <string name="register_email_input_hint">Email</string>
+    <string name="register_mobile_input_content_description_end_icon">Mobile</string>
+    <string name="register_mobile_input_hint">Mobile</string>
+    <!--Login View-->
+    <string name="login_app_name">RedPilledBase</string>
+    <string name="login_title">Log In</string>
+    <string name="login_email_input_content_description_end_icon">Email</string>
+    <string name="login_email_input_hint">Email ID</string>
+    <string name="login_password_input_content_description_end_icon">Password</string>
+    <string name="login_password_input_hint">Password</string>
+    <string name="login_submit_button_text">Login</string>
+    <string name="login_submit_google_button_text">Login with Google</string>
+    <string name="login_forgot_text">Forgot Password?</string>
+    <!--Forgot View-->
+    <string name="forgot_title1">Forgot</string>
+    <string name="forgot_title2">Password?</string>
+    <string name="forgot_description">Don\'t worry! It happens. Please enter the address associated with your account.</string>
+    <string name="forgot_input_email_content_description_end_icon">Mobile</string>
+    <string name="forgot_input_email_hint">Email ID / Mobile number</string>
+    <string name="forgot_submit_button_text">Submit</string>
+    <!--OTP View-->
+    <string name="otp_title">Enter OTP</string>
+    <string name="otp_description">An 4 digit code has been sent to</string>
+    <string name="otp_input_code_content_description_end_icon">Mobile</string>
+    <string name="otp_input_code_hint">Code</string>
+    <string name="otp_submit_button_text">Submit</string>
+    <!--Reset View-->
+    <string name="reset_title1">Reset</string>
+    <string name="reset_title2">Password</string>
+    <string name="reset_input_password_content_description_end_icon">Password</string>
+    <string name="reset_input_password_hint">New Password</string>
+    <string name="reset_input_confirm_content_description_end_icon">Confirm</string>
+    <string name="reset_input_confirm_hint">Confirm New Password</string>
+    <string name="reset_submit_button_text">Submit</string>
+</resources>
